@@ -1,25 +1,28 @@
 # Cursor Setup Project
 
-## Completed Setup
-- Installed Cursor IDE
-- Created and connected GitHub account
-- Opened Cursor desktop application
-- Connected GitHub integration
-- Explored Marketplace and extension settings
+## Tools Installed
+- Cursor IDE
+- GitHub
+- Git integration through Cursor
 
-## Extension Installation Attempt
-Attempted to search/install:
-- Claude
-- Codex
+## Steps Completed
+1. Installed Cursor IDE on MacBook
+2. Created a GitHub account
+3. Connected GitHub to Cursor
+4. Opened and explored the Cursor desktop application
+5. Accessed the Marketplace/Extensions section
+6. Created a public GitHub repository
+7. Created and updated the README.md file
+8. Committed and pushed files to GitHub
 
-The extensions did not appear in the current Cursor Marketplace interface/version.
+## Issues Encountered
+### Extension Search Issue
+While searching for the Claude and Codex extensions in the Cursor Marketplace, no results appeared in the current version/interface of Cursor.
 
-## Repository Purpose
-This repository documents the setup and onboarding process completed for the assignment.
+### How I Solved It
+- Verified the issue in both the Marketplace and Editor view
+- Explored alternative extension search methods
+- Continued the setup process and documented the issue professionally in the repository
 
-## Skills Learned
-- Cursor IDE setup
-- GitHub integration
-- Repository creation
-- Basic Git workflow
-- Documentation and troubleshooting
+## Outcome
+Successfully completed the setup process, connected GitHub, created the repository, and pushed the project files to GitHub.
